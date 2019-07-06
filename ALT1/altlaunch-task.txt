@@ -1,0 +1,54 @@
+[Task]
+triggerOnFirstLogin=true
+triggerOnLogin=true
+triggerOntime=false
+timevalue=10:15
+script=altlaunch-tasks.txt
+
+[Task]
+#Sell all
+ #triggerOnInterval=true
+ #timeInterval=15
+ #script=SellAll.txt
+
+[Task]
+#Coop
+ #triggerOnInterval=true
+ #timeInterval=120
+ #script=coop.txt
+
+[Task]
+#Send Money
+ #triggerOnInterval=true
+ #timeInterval=15
+ #script=AltPayOut.txt
+
+[Task]
+#Crate Transfer
+ #triggerOnInterval=true
+ #timeInterval=120
+ #script=crate1.txt
+
+[Task]
+#Crate Transfer
+ #triggerOnInterval=true
+ #timeInterval=130
+ #script=crate2.txt
+
+[Task]
+#Crate Transfer
+ #triggerOnInterval=true
+ #timeInterval=140
+ #script=crate3.txt
+
+[Task]
+#Crate Transfer
+ #triggerOnInterval=true
+ #timeInterval=150
+ #script=crate4.txt
+
+[Task]
+#Crate Transfer
+ #triggerOnInterval=true
+ #timeInterval=160
+ #script=crate5.txt

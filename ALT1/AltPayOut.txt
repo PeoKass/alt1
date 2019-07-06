@@ -1,0 +1,1 @@
+send /pay IGN 10000000
